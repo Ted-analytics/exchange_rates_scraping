@@ -1,2 +1,2 @@
-# exchange_rates_scraping
-Project that utilizes python to scrape the daily exchange rates from BNR website and load to a clickhouse database.
+# irembopay-exchangerates
+Data Pipeline for getting exchnage rates from BNR and uploading to clickhouse.
